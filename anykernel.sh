@@ -1,7 +1,7 @@
 #!/sbin/sh
 
 properties() {
-kernel.string=""
+kernel.string="Clarith-vR4 by Whiskiesweet"
 do.devicecheck=0
 do.modules=0
 do.systemless=1
